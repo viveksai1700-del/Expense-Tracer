@@ -13,7 +13,7 @@ A simple Python Expense Tracker that helps you record, view, and manage your dai
 <br>
 
 # Technologies Used
-- Python 3
+- Python 3.
 - Python Lists & Dictionaries
 - Functions
 - Loops
