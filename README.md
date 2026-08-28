@@ -17,5 +17,5 @@ A simple Python Expense Tracker that helps you record, view, and manage your dai
 - Python Lists & Dictionaries.
 - Functions.
 - Loops.
-- Conditional Statements
-- User Input
+- Conditional Statements.
+- User Input.
