@@ -4,7 +4,7 @@ A simple Python Expense Tracker that helps you record, view, and manage your dai
 <br>
 
 # Features
-➕ Add new expenses
+➕ Add new expenses.
 📋 View all expenses
 💵 Calculate total expenses
 🗑️ Delete expenses
