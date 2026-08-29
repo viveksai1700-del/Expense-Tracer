@@ -9,7 +9,7 @@ A simple Python Expense Tracker that helps you record, view, and manage your dai
 💵 Calculate total expenses.
 🗑️ Delete expenses.
 📅 Store expense details.
-🖥️ Simple command-line interface
+🖥️ Simple command-line interface.
 <br>
 
 # Technologies Used
